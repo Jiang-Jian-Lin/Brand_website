@@ -9,7 +9,7 @@ html, body {
 
 body {
   padding: 0px;
-  margin: 0px
+  margin: 0px;
   font-size: 14px;
   line-height: 1.42857143;
   color: #333;
@@ -45,4 +45,33 @@ img {
   margin: 0 auto;
   position: relative;
 }
+
+header {
+  position: fixed;
+  width: 100%;
+  left: 0;
+  right: 0;
+  background-color: #222; 
+  z-index: 1;
+}
+
+#logo {
+  float: left;
+}
+
+.nav {
+  float: right;
+}
+.nav li {
+  display: inline-block;
+}
+
+.nav li a {
+  color: #fff;
+  text-transform: capitalize;
+  display: block;
+  padding: 10px 12px;
+}
+
+
 

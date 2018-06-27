@@ -55,6 +55,10 @@ img {
   position: relative;
 }
 
+section {
+  padding: 100px 0;
+}
+
 h2 {
   margin-bottom: 75px;
   text-align: center;
@@ -139,7 +143,7 @@ header {
 }
 /*04. About Me*/
 .about_me {
-  padding: 100px 0;
+  
 }
 
 .col-left, .col-right {
@@ -199,7 +203,6 @@ header {
 }
 /*05. My Service*/
 .my_service {
-  padding: 100px 0;
   background-color: #f9f9f9;
 }
 
@@ -228,3 +231,19 @@ header {
   font-weight: 300;
   line-height: 24px;
 }
+/*06. Resume*/
+.col-horizontal {
+  padding-bottom: 16px;
+  border-bottom: 1px solid #767676;
+}
+
+.col-horizontal:last-child {
+  border-bottom: 0px;
+}
+
+
+
+
+
+
+

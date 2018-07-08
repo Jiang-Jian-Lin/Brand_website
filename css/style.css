@@ -368,7 +368,7 @@ h3.resume-subtitle {
   padding: 0 15px;
 }
 
-.contact-form .form-input:first-child(3) {
+.contact-form .form-input:nth-child(3) {
   width: 100%;
   padding: 0 15px;
 }

@@ -96,7 +96,7 @@ header {
  } 
 /*03. Home Background Image*/
 .home_bg {
-  background-image: url(../images/profolie-960x514.png);
+  background-image: url(../images/profile.jpg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -281,7 +281,7 @@ h3.resume-subtitle {
 }
 /*07. Quote*/
 .quotes {
-  background-image: url(../images/1920x453.png);
+  background-image: url(../images/abg.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
